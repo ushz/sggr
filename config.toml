@@ -1,0 +1,3 @@
+baseurl = "http://www.sggr.in/"
+title = "My New Hugo Site"
+languageCode = "en-us"
